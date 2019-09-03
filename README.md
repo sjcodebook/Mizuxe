@@ -1,2 +1,2 @@
 # Mizuxe
-### A book info website.
+### A fully responsive book info website.
